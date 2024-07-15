@@ -1,1 +1,1 @@
-# Basic-Image-Processing-Bit-Plane-Extraction-Gamma-Correction-Histogram-Equalization-
+# In this repository, I implemented several basic image processing techniques, including bit-plane extraction, gamma correction, and histogram equalization.
